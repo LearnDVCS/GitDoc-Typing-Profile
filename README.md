@@ -14,6 +14,8 @@ When you think you have GitDoc set up, try putting your name in the area indicat
 
 Keep making changes to this repository. Add files, edit files, etc. All your work will be recorded, and there will be a clear demonstration of the efforts you have put into your project/assignment.
 
+> :test_tube: Follow the instructions in the [**TypingProfile.md**](./TypingProfile.md) to complete this practice lab.
+
 ----
 
 ## Automatic Commits
